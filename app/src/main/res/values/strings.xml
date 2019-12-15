@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wireless Attendance</string>
+    <string name="text_mac_address">MAC Address</string>
+    <string name="button_register">REGISTER</string>
+    <string name="text_developer">Design and Developed by <a href="http://www.twitter.com/aayushbest">Aayush Shrivastava</a></string>
+    <string name="log_table_created">Table created</string>
+    <string name="welcome_text">Welcome</string>
+    <string name="register_message">Your Device ID is not registed.</string>
+    <string name="datetime_text">Current Date-Time</string>
+    <string name="user_desc_text">Your Name At College Acronym</string>
+    <string name="default_unique_id">98:6f:60:dc:25:80</string>
+</resources>
